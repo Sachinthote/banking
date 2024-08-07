@@ -71,4 +71,4 @@ const PlaidLink = ({ user, variant }: PlaidLinkProps) => {
   )
 }
 
-export default PlaidLink
+export default PlaidLink 
